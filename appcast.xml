@@ -7,7 +7,7 @@
         <language>en</language>
         <item>
             <title>les Archives 0.9.0-beta</title>
-            <pubDate>Sat, 30 May 2026 11:00:00 -0400</pubDate>
+            <pubDate>Sat, 30 May 2026 11:45:00 -0400</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <p>Pipeline shakedown release. Verifies the Sparkle delivery chain end-to-end before v1.0 cut. Not for production use.</p>
@@ -16,8 +16,8 @@
                 url="https://github.com/trentcobb/les-archives-releases/releases/download/v0.9.0-beta/les_Archives_0.9.0-beta.zip"
                 sparkle:version="1"
                 sparkle:shortVersionString="0.9.0-beta"
-                sparkle:edSignature="EzkgyatsmuLS0R+IKduMAh6iebk4CbGm10A9UmvAqKPPVnCvT+DWKXcsKDmn9I98Xsn8PhS0W23cbWigWUvADg=="
-                length="27852688"
+                sparkle:edSignature="4EoyLPxFdrOtUGmgLsoxv6PIgJlcNV1TkTWEGaYyz0Otasi+vrtrktrEnDROC+5JpNKKGz1FBpGr9kafV8SyCA=="
+                length="27852683"
                 type="application/octet-stream"/>
         </item>
     </channel>
