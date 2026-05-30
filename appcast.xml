@@ -14,7 +14,7 @@
             ]]></description>
             <enclosure
                 url="https://github.com/trentcobb/les-archives-releases/releases/download/v0.9.0-beta/les_Archives_0.9.0-beta.zip"
-                sparkle:version="1"
+                sparkle:version="100"
                 sparkle:shortVersionString="0.9.0-beta"
                 sparkle:edSignature="4EoyLPxFdrOtUGmgLsoxv6PIgJlcNV1TkTWEGaYyz0Otasi+vrtrktrEnDROC+5JpNKKGz1FBpGr9kafV8SyCA=="
                 length="27852683"
