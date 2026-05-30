@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>les Archives</title>
-        <link>https://raw.githubusercontent.com/trentcobb/les-archives/main/appcast.xml</link>
+        <link>https://raw.githubusercontent.com/trentcobb/les-archives-releases/main/appcast.xml</link>
         <description>Sparkle update feed for les Archives</description>
         <language>en</language>
         <item>
@@ -13,7 +13,7 @@
                 <p>Pipeline shakedown release. Verifies the Sparkle delivery chain end-to-end before v1.0 cut. Not for production use.</p>
             ]]></description>
             <enclosure
-                url="https://github.com/trentcobb/les-archives/releases/download/v0.9.0-beta/les_Archives_0.9.0-beta.zip"
+                url="https://github.com/trentcobb/les-archives-releases/releases/download/v0.9.0-beta/les_Archives_0.9.0-beta.zip"
                 sparkle:version="1"
                 sparkle:shortVersionString="0.9.0-beta"
                 sparkle:edSignature="EzkgyatsmuLS0R+IKduMAh6iebk4CbGm10A9UmvAqKPPVnCvT+DWKXcsKDmn9I98Xsn8PhS0W23cbWigWUvADg=="
