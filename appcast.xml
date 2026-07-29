@@ -6,6 +6,27 @@
         <description>Sparkle update feed for les Archives</description>
         <language>en</language>
         <item>
+            <title>les Archives 1.1.0</title>
+            <pubDate>Tue, 28 Jul 2026 22:45:00 -0400</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>What's new in 1.1.0</p>
+                <ul>
+                    <li>Smarter captions and complete vendor credits — cataloging now reads your full questionnaire and debrief for every photo.</li>
+                    <li>Upgraded AI model for sharper tagging and writing.</li>
+                    <li>Refreshed app icon.</li>
+                    <li>Reliability and sync improvements across the archive.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/trentcobb/les-archives-releases/releases/download/v1.1.0/les_Archives_1.1.0.zip"
+                sparkle:version="3"
+                sparkle:shortVersionString="1.1.0"
+                sparkle:edSignature="QECUwGVyRhPr+1m8da04vj0p8HOrC2CNd1/UMqmG9WzeptkZrgQe6ytfRDvGK/Dv1sXQLHfjHSBASI9bvgmFBQ=="
+                length="47763689"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>les Archives 1.0.0</title>
             <pubDate>Sat, 30 May 2026 20:10:00 -0400</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
