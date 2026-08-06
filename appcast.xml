@@ -6,6 +6,21 @@
         <description>Sparkle update feed for les Archives</description>
         <language>en</language>
         <item>
+            <title>les Archives 1.1.1</title>
+            <pubDate>Wed, 05 Aug 2026 23:06:59 -0400</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Fixes cloud backup sync and Send to Submission. Feed Preview now shows planned posts, is larger, and supports drag-to-reorder for photos and carousels.</p>
+            ]]></description>
+            <enclosure
+                url="https://github.com/trentcobb/les-archives-releases/releases/download/v1.1.1/les_Archives_1.1.1.zip"
+                sparkle:version="5"
+                sparkle:shortVersionString="1.1.1"
+                sparkle:edSignature="XhKmeHwwONGDbOvOUJiB/LocaXcCZzOyEIAPGjkfvSp5doflE6cjvm8bVy7QoyoMTmakHeevJhvqKsMd5SCQCA=="
+                length="47856319"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>les Archives 1.1.0</title>
             <pubDate>Tue, 28 Jul 2026 22:45:00 -0400</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
