@@ -6,6 +6,21 @@
         <description>Sparkle update feed for les Archives</description>
         <language>en</language>
         <item>
+            <title>les Archives 1.1.4</title>
+            <pubDate>Wed, 12 Aug 2026 14:22:16 -0400</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Fixes the first-open security block by removing stray framework metadata from the package. Includes the rebuilt image zoom and recent reliability work.</p>
+            ]]></description>
+            <enclosure
+                url="https://github.com/trentcobb/les-archives-releases/releases/download/v1.1.4/les_Archives_1.1.4.zip"
+                sparkle:version="9"
+                sparkle:shortVersionString="1.1.4"
+                sparkle:edSignature="NBd+Ppjp+0iLQ4Sjozkh+V9PQvA/1DmzOht/YAKIupAqiRhqmfmqxxWqOuDNy8k9RLmdv0qaaWLZ52TY3tK7AQ=="
+                length="49821549"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>les Archives 1.1.3</title>
             <pubDate>Wed, 12 Aug 2026 13:43:02 -0400</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
