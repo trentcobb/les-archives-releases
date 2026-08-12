@@ -6,6 +6,21 @@
         <description>Sparkle update feed for les Archives</description>
         <language>en</language>
         <item>
+            <title>les Archives 1.1.2</title>
+            <pubDate>Tue, 11 Aug 2026 21:21:11 -0400</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Rebuilt the image zoom for accurate cursor-anchored zooming. Plus representation filters, backup reliability fixes, and editor-message syncing.</p>
+            ]]></description>
+            <enclosure
+                url="https://github.com/trentcobb/les-archives-releases/releases/download/v1.1.2/les_Archives_1.1.2.zip"
+                sparkle:version="7"
+                sparkle:shortVersionString="1.1.2"
+                sparkle:edSignature="MPZAI3GZMs8ioaqabPOhaXGoEf2+M701uLglrAwOWvKNEt06vEpjXX9Q7wQ98hlhw7LolZ7KzVn6QF66L6JjCA=="
+                length="49883440"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>les Archives 1.1.1</title>
             <pubDate>Wed, 05 Aug 2026 23:06:59 -0400</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
