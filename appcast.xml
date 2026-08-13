@@ -6,6 +6,21 @@
         <description>Sparkle update feed for les Archives</description>
         <language>en</language>
         <item>
+            <title>les Archives 1.1.5</title>
+            <pubDate>Thu, 13 Aug 2026 00:19:19 -0400</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Signing in is now passwordless. We email you a six digit code, no password to remember. We also rebuilt the archive image viewer so zoom is faster and follows your cursor, and tidied up Settings along the way.</p>
+            ]]></description>
+            <enclosure
+                url="https://github.com/trentcobb/les-archives-releases/releases/download/v1.1.5/les_Archives_1.1.5.zip"
+                sparkle:version="11"
+                sparkle:shortVersionString="1.1.5"
+                sparkle:edSignature="iFK+x0QANugxAmkhXTLMO4/nt4uyPKwIRFhkH+u5FIyARncZMtWwG38NCc4e/yKPgZqPsFFs/1UNj/g0asoYDA=="
+                length="49797537"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>les Archives 1.1.4</title>
             <pubDate>Wed, 12 Aug 2026 14:22:16 -0400</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
