@@ -6,6 +6,21 @@
         <description>Sparkle update feed for les Archives</description>
         <language>en</language>
         <item>
+            <title>les Archives 1.1.6</title>
+            <pubDate>Sun, 16 Aug 2026 22:17:58 -0400</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Mostly polish this time. A warmer look across the app, a sidebar that opens on hover and stays where you leave it, and the status bar back to yellow. Invited team members now see only the work, never your plan, billing, or keys. Debriefs lock when you actually send them, and copying the link marks them sent.</p>
+            ]]></description>
+            <enclosure
+                url="https://github.com/trentcobb/les-archives-releases/releases/download/v1.1.6/les_Archives_1.1.6.zip"
+                sparkle:version="12"
+                sparkle:shortVersionString="1.1.6"
+                sparkle:edSignature="B2pVYgpj3A3K55+Em58FwP8AKrHT6C/0Ba34b2+QBf8iUaxRyvUCf7Sr7t+9l5OUlU8WwtrDfzYhYw1+2uFbCg=="
+                length="58885631"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>les Archives 1.1.5</title>
             <pubDate>Thu, 13 Aug 2026 00:19:19 -0400</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
