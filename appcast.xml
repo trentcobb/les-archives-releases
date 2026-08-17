@@ -6,6 +6,21 @@
         <description>Sparkle update feed for les Archives</description>
         <language>en</language>
         <item>
+            <title>les Archives 1.1.8</title>
+            <pubDate>Mon, 17 Aug 2026 00:34:00 -0400</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Catalog and Archive top-bar menu labels (View, New Job, Sort, All) render light again on the dark bar.</p>
+            ]]></description>
+            <enclosure
+                url="https://github.com/trentcobb/les-archives-releases/releases/download/v1.1.8/les_Archives_1.1.8.zip"
+                sparkle:version="15"
+                sparkle:shortVersionString="1.1.8"
+                sparkle:edSignature="W5oYym+CTQ8rH66XLztIfW8/9zMI+0OLRIGOAsGujUlA5npCGm+mRakmS/e1LuqryLK4C7yulEiLC4Q/PquOBA=="
+                length="57446516"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>les Archives 1.1.7</title>
             <pubDate>Mon, 17 Aug 2026 00:01:04 -0400</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
