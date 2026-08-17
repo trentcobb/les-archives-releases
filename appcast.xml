@@ -6,6 +6,21 @@
         <description>Sparkle update feed for les Archives</description>
         <language>en</language>
         <item>
+            <title>les Archives 1.1.7</title>
+            <pubDate>Mon, 17 Aug 2026 00:01:04 -0400</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Restored the current Settings screen and the option to fill in a debrief yourself. Reworked carousel Border and Shadow controls with a live thickness slider, brand-color and custom swatches, and simple shadow presets. Borders now render on every edge. Fixed the EXPORT button so it shows its yellow again.</p>
+            ]]></description>
+            <enclosure
+                url="https://github.com/trentcobb/les-archives-releases/releases/download/v1.1.7/les_Archives_1.1.7.zip"
+                sparkle:version="13"
+                sparkle:shortVersionString="1.1.7"
+                sparkle:edSignature="i/IFYdhyxOd3NYYNu0CrECLryzAuLw+KQq5qWRdyowO9X5R9XJ5NU86DL5hBn0IUKIcyNfJxeTE3XjEdH2IhCw=="
+                length="57444349"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>les Archives 1.1.6</title>
             <pubDate>Sun, 16 Aug 2026 22:17:58 -0400</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
