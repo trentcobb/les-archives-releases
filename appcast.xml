@@ -6,6 +6,21 @@
         <description>Sparkle update feed for les Archives</description>
         <language>en</language>
         <item>
+            <title>les Archives 1.1.9</title>
+            <pubDate>Mon, 17 Aug 2026 22:31:06 -0400</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>A big pass on Carousel Studio and scheduling. Moving photos, text, and shapes on the canvas is smooth now, and grabbing text moves it instead of rotating. The Open panel shows each draft's first slide. Scheduling a carousel gives you a clear Write with AI caption button, and any image without a caption gets a Generate button. Sidebar Settings links jump to their section, Archive bulk edit covers every per-photo field, Clear All actually clears Instagram drafts, the draft scheduler is Instagram only, and Pinterest's Lineup now shows each slot's time, blocks slots that already passed, and follows your real posting schedule.</p>
+            ]]></description>
+            <enclosure
+                url="https://github.com/trentcobb/les-archives-releases/releases/download/v1.1.9/les_Archives_1.1.9.zip"
+                sparkle:version="16"
+                sparkle:shortVersionString="1.1.9"
+                sparkle:edSignature="QXtl0GoYq+fK5yhquQMljHyRnn0CL2IdfR+FelmPiTglSScSPEU6jhQOButEJfCSZ1zv1uVvZOmbXe1o2Gg+Ag=="
+                length="57498422"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>les Archives 1.1.8</title>
             <pubDate>Mon, 17 Aug 2026 00:34:00 -0400</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
