@@ -6,6 +6,21 @@
         <description>Sparkle update feed for les Archives</description>
         <language>en</language>
         <item>
+            <title>les Archives 1.2.1</title>
+            <pubDate>Thu, 03 Sep 2026 12:29:25 -0400</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Faster catalog and Pinterest archive loading, working Saved and Prefs buttons, and submission vendor and cover fixes.</p>
+            ]]></description>
+            <enclosure
+                url="https://github.com/trentcobb/les-archives-releases/releases/download/v1.2.1/les_Archives_1.2.1.zip"
+                sparkle:version="20"
+                sparkle:shortVersionString="1.2.1"
+                sparkle:edSignature="BxE2PZcAMk2KX5ki0CgrBrT+bHNh01kjsSc1+8/tQHkezN0qz+oujIVdajPUXdt0B9jczxXgNlurAlsoVgDNBA=="
+                length="57425613"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>les Archives 1.2.0</title>
             <pubDate>Thu, 03 Sep 2026 08:39:12 -0400</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
