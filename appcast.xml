@@ -6,6 +6,21 @@
         <description>Sparkle update feed for les Archives</description>
         <language>en</language>
         <item>
+            <title>les Archives 1.2.3</title>
+            <pubDate>Fri, 09 Oct 2026 18:39:03 -0400</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Faster photo loading for large archives, and a smoother Carousel Studio. The archive now opens as a side panel you can keep open while you build.</p>
+            ]]></description>
+            <enclosure
+                url="https://github.com/trentcobb/les-archives-releases/releases/download/v1.2.3/les_Archives_1.2.3.zip"
+                sparkle:version="22"
+                sparkle:shortVersionString="1.2.3"
+                sparkle:edSignature="/iZ7BzX/uAfaHNybGrOUBHLuVcxquyoCKFK2zUuRSzORSJs3yNMj+kFSYEIB/SUL9RjZECYFhDRYn/QJM37CCg=="
+                length="57474064"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>les Archives 1.2.2</title>
             <pubDate>Thu, 03 Sep 2026 15:24:30 -0400</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
