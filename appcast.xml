@@ -6,6 +6,21 @@
         <description>Sparkle update feed for les Archives</description>
         <language>en</language>
         <item>
+            <title>les Archives 1.2.4</title>
+            <pubDate>Sun, 01 Nov 2026 16:46:00 -0500</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Scheduling a photo to Pinterest now saves reliably. Cleaned up empty and stuck thumbnails in the archive and content queue. Smoother carousel dragging, and the debrief stays editable until you actually send it. New GRID toggle in Carousel Studio shows where slides break in Continuous mode.</p>
+            ]]></description>
+            <enclosure
+                url="https://github.com/trentcobb/les-archives-releases/releases/download/v1.2.4/les_Archives_1.2.4.zip"
+                sparkle:version="23"
+                sparkle:shortVersionString="1.2.4"
+                sparkle:edSignature="DJpBSxMmyeyB/Ix5JinCfoTAYilzzdzURSVktcH7VKxX3P0fFfHOReuQkgPkkBZ7rqWNOfnXlmHNbBaZC9ggCA=="
+                length="57502183"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>les Archives 1.2.3</title>
             <pubDate>Fri, 09 Oct 2026 18:39:03 -0400</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
