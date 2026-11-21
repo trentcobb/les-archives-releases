@@ -6,6 +6,21 @@
         <description>Sparkle update feed for les Archives</description>
         <language>en</language>
         <item>
+            <title>les Archives 1.2.5</title>
+            <pubDate>Fri, 20 Nov 2026 21:15:35 -0500</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>We added two new tools to Create: a Story builder and a Proposal builder, both on the same canvas as Carousel Studio. Scheduled posts now let you set the exact day and time right where you compose them, and you can bump up the app's text size in Settings. We also taught the catalog to find a wedding's photos when its folder has moved or lives in the cloud, so Send to Carousel stops coming up empty.</p>
+            ]]></description>
+            <enclosure
+                url="https://github.com/trentcobb/les-archives-releases/releases/download/v1.2.5/les_Archives_1.2.5.zip"
+                sparkle:version="25"
+                sparkle:shortVersionString="1.2.5"
+                sparkle:edSignature="60kghrXJSPfpr/uuoUihoZ5R5aTCP7CaQB309Rqj7jJN2wShkEtQ/Dt93SnsenMm3YbVnRtwjrC2Gjvc0SrKDw=="
+                length="56920685"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>les Archives 1.2.4</title>
             <pubDate>Sun, 01 Nov 2026 16:46:00 -0500</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
